@@ -5,3 +5,6 @@
 ### To run this project in your system:
 - clone this repo into your system
 - run the python file through any text editor or terminal
+
+### CHANGE IT IN ANY FORM YOU WANT AND RAISE PULL REQUEST.
+# :)
